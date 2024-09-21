@@ -100,4 +100,11 @@
     .text-container {
       text-align: justify;
     }
+    .contact-info-container {
+        display: flow-root;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        margin: 1rem;
+      }
   }
